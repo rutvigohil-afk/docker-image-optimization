@@ -1,5 +1,14 @@
 # Docker Image Optimization
 
+## Intern Details
+
+Intern ID: CITS1554
+
+Project Name:
+Docker Image Optimization
+
+---
+
 ## Project Scope
 
 This project demonstrates techniques to optimize Docker images by reducing image size and improving build efficiency.
