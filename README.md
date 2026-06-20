@@ -1,18 +1,5 @@
 # Docker Image Optimization
 
-## Intern Details
-
-Intern ID:
-
-Full Name:
-
-No. of Weeks:
-
-Project Name:
-Docker Image Optimization
-
----
-
 ## Project Scope
 
 This project demonstrates techniques to optimize Docker images by reducing image size and improving build efficiency.
@@ -47,17 +34,13 @@ GitHub
 
 ## Results
 
-Old Image : xxx MB
+Old Image : 1.58 GB
 
-Optimized Image : xxx MB
-
-Reduction : xx %
+Optimized Image : 207 MB
 
 ---
 
 ## Screenshots
-
-(Add screenshots)
 
 ---
 
